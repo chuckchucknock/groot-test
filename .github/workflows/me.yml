@@ -20,4 +20,4 @@ jobs:
         with:
           node-version: '12.x'
       - name: Prettify Commit
-        uses: dephraiim/groot-action@main
+        uses: dephraiim/groot-action@v0.1
