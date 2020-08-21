@@ -20,5 +20,5 @@ jobs:
         with:
           node-version: '12.x'
       - name: Groot Action
-        uses: dephraiim/groot@v0.1
+        uses: dephraiim/groot@main
 
