@@ -19,5 +19,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-      - name: Prettify Commit
-        uses: dephraiim/groot-action@v0.1
+      - name: Groot Action
+        uses: dephraiim/groot@v0.1
+
